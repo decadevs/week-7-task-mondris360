@@ -1,0 +1,96 @@
+body {
+    background-color: #F0F2F5 !important;
+}
+
+#left{
+    margin-top: 11rem;
+    margin-left: 9rem;
+    width: 40rem;
+}
+
+.container img {
+    width: 18rem;
+    height: 6rem;
+    margin-left: -38px;
+}
+.container p {
+    margin-top: 0.5rem;
+    FONT-FAMILY:SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    FONT-SIZE: 28px;
+    LINE-HEIGHT : 32px;
+}
+
+/*#loginform{*/
+/*    float: right;*/
+/*    margin-top: -15rem;*/
+/*    margin-right:-25rem;*/
+/*    height: 348px;*/
+/*    background-color: red;*/
+/*}*/
+
+.card {
+    float: right;
+    width: 25rem;
+    margin-right: 15rem;
+    margin-top: -15rem;
+    height: 21rem;
+}
+.submitbtn{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 100%;
+}
+.createAccountBtn {
+    background-color: #36A420 !important;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    padding: 0 16px;
+    width: 60%;
+    height: 13%;
+    margin-top: 1rem;
+    margin-left:5%;
+}
+.signup{
+    background-color: #36A420 !important;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    padding: 0 16px;
+    width: 30%;
+    height: 28%;
+    margin-top: 1rem;
+    margin-left:5%;
+}
+/*select{*/
+/*    font-family: Helvetica, Arial, sans-serif;*/
+/*    font-size: 12px;*/
+/*    background-color: red;*/
+/*    padding: 0.3rem;*/
+/*    margin-left: 8rem;*/
+/*}*/
+.dob{
+    display: flex;
+    justify-content: right;
+    margin-left: 2rem;
+    width: 20%;
+}
+#terms{
+    font-size: 10px;
+}
+
+#errorMessage{
+    color:red;
+    text-align: center;
+}
+
+/*style for post and comment session*/
+
+
